@@ -1,0 +1,5 @@
+Размеры файлов в байтах:
+selected_data.csv: 29380077 байт
+selected_data.json: 98880042 байт
+selected_data.pkl: 29091562 байт
+selected_data.msgpack: 53589071 байт
