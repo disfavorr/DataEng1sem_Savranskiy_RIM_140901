@@ -1,0 +1,74 @@
+[
+    {
+        "name": "5.7\" Dell 64GB",
+        "price": 82916.0,
+        "processor": "4x4.4 ГГц",
+        "ram": null,
+        "matrix": "OLED",
+        "resolution": null,
+        "camera": "64 MP"
+    },
+    {
+        "name": "6.6\" Qualcomm 144GB",
+        "price": 108380.0,
+        "processor": "4x4.4 ГГц",
+        "ram": null,
+        "matrix": "IPS",
+        "resolution": "1920x2160",
+        "camera": null
+    },
+    {
+        "name": "7.5\" Fujitsu 240GB",
+        "price": 324190.0,
+        "processor": "4x4.4 ГГц",
+        "ram": "11 GB",
+        "matrix": "IPS",
+        "resolution": "2560x1366",
+        "camera": "61 MP"
+    },
+    {
+        "name": "6.8\" Intel 80GB",
+        "price": 474150.0,
+        "processor": "4x4.4 ГГц",
+        "ram": null,
+        "matrix": null,
+        "resolution": null,
+        "camera": "100 MP"
+    },
+    {
+        "name": "6.4\" IBM 176GB",
+        "price": 57308.0,
+        "processor": "4x4.4 ГГц",
+        "ram": "11 GB",
+        "matrix": null,
+        "resolution": "1280x1080",
+        "camera": "32 MP"
+    },
+    {
+        "name": "5.7\" iPhone X 64GB",
+        "price": 10303.0,
+        "processor": "4x4.4 ГГц",
+        "ram": null,
+        "matrix": null,
+        "resolution": "1024x1440",
+        "camera": "116 MP"
+    },
+    {
+        "name": "5.7\" iPhone 13 80GB",
+        "price": 142465.0,
+        "processor": "4x4.4 ГГц",
+        "ram": "13 GB",
+        "matrix": null,
+        "resolution": "1280x1200",
+        "camera": "124 MP"
+    },
+    {
+        "name": "6.4\" Plextor 256GB",
+        "price": 236009.0,
+        "processor": "4x4.4 ГГц",
+        "ram": null,
+        "matrix": null,
+        "resolution": "2560x1080",
+        "camera": "69 MP"
+    }
+]
