@@ -1,0 +1,446 @@
+[
+    {
+        "month_year": "April 2013",
+        "average_players": 19858.449374999997
+    },
+    {
+        "month_year": "April 2014",
+        "average_players": 35100.69857142857
+    },
+    {
+        "month_year": "April 2015",
+        "average_players": 44944.15206896553
+    },
+    {
+        "month_year": "April 2016",
+        "average_players": 41380.108461538446
+    },
+    {
+        "month_year": "April 2017",
+        "average_players": 32299.819807692307
+    },
+    {
+        "month_year": "April 2018",
+        "average_players": 44676.54344827587
+    },
+    {
+        "month_year": "April 2019",
+        "average_players": 33760.65032258065
+    },
+    {
+        "month_year": "April 2020",
+        "average_players": 50472.94942028984
+    },
+    {
+        "month_year": "April 2021",
+        "average_players": 36220.04285714286
+    },
+    {
+        "month_year": "August 2012",
+        "average_players": 20805.553000000004
+    },
+    {
+        "month_year": "August 2013",
+        "average_players": 33512.925
+    },
+    {
+        "month_year": "August 2014",
+        "average_players": 38557.82666666669
+    },
+    {
+        "month_year": "August 2015",
+        "average_players": 43319.94545454545
+    },
+    {
+        "month_year": "August 2016",
+        "average_players": 36762.80931818182
+    },
+    {
+        "month_year": "August 2017",
+        "average_players": 38348.479074074065
+    },
+    {
+        "month_year": "August 2018",
+        "average_players": 40876.991525423735
+    },
+    {
+        "month_year": "August 2019",
+        "average_players": 35012.03343749999
+    },
+    {
+        "month_year": "August 2020",
+        "average_players": 36482.5576923077
+    },
+    {
+        "month_year": "August 2021",
+        "average_players": 34144.91606382978
+    },
+    {
+        "month_year": "December 2012",
+        "average_players": 23808.847272727275
+    },
+    {
+        "month_year": "December 2013",
+        "average_players": 34169.178947368426
+    },
+    {
+        "month_year": "December 2014",
+        "average_players": 39205.8126923077
+    },
+    {
+        "month_year": "December 2015",
+        "average_players": 43709.508857142864
+    },
+    {
+        "month_year": "December 2016",
+        "average_players": 32482.88879999999
+    },
+    {
+        "month_year": "December 2017",
+        "average_players": 53820.23627118639
+    },
+    {
+        "month_year": "December 2018",
+        "average_players": 36920.07741935485
+    },
+    {
+        "month_year": "December 2019",
+        "average_players": 35970.90352941177
+    },
+    {
+        "month_year": "December 2020",
+        "average_players": 38901.42659090909
+    },
+    {
+        "month_year": "February 2013",
+        "average_players": 23669.32307692308
+    },
+    {
+        "month_year": "February 2014",
+        "average_players": 37298.34300000001
+    },
+    {
+        "month_year": "February 2015",
+        "average_players": 43629.64962962963
+    },
+    {
+        "month_year": "February 2016",
+        "average_players": 45384.97444444444
+    },
+    {
+        "month_year": "February 2017",
+        "average_players": 33850.58660000001
+    },
+    {
+        "month_year": "February 2018",
+        "average_players": 52208.6727118644
+    },
+    {
+        "month_year": "February 2019",
+        "average_players": 36728.07870967743
+    },
+    {
+        "month_year": "February 2020",
+        "average_players": 39014.31249999999
+    },
+    {
+        "month_year": "February 2021",
+        "average_players": 39816.89855555554
+    },
+    {
+        "month_year": "January 2013",
+        "average_players": 23266.665384615386
+    },
+    {
+        "month_year": "January 2014",
+        "average_players": 38009.97578947368
+    },
+    {
+        "month_year": "January 2015",
+        "average_players": 42864.85230769232
+    },
+    {
+        "month_year": "January 2016",
+        "average_players": 44931.767142857156
+    },
+    {
+        "month_year": "January 2017",
+        "average_players": 33828.44176470586
+    },
+    {
+        "month_year": "January 2018",
+        "average_players": 57327.698305084734
+    },
+    {
+        "month_year": "January 2019",
+        "average_players": 38286.039838709665
+    },
+    {
+        "month_year": "January 2020",
+        "average_players": 38113.86926470586
+    },
+    {
+        "month_year": "January 2021",
+        "average_players": 39173.59853932585
+    },
+    {
+        "month_year": "July 2012",
+        "average_players": 21120.961111111115
+    },
+    {
+        "month_year": "July 2013",
+        "average_players": 26355.001249999998
+    },
+    {
+        "month_year": "July 2014",
+        "average_players": 41563.50173913043
+    },
+    {
+        "month_year": "July 2015",
+        "average_players": 42998.1053125
+    },
+    {
+        "month_year": "July 2016",
+        "average_players": 38377.184047619055
+    },
+    {
+        "month_year": "July 2017",
+        "average_players": 34584.32072727273
+    },
+    {
+        "month_year": "July 2018",
+        "average_players": 40596.94465517242
+    },
+    {
+        "month_year": "July 2019",
+        "average_players": 35532.580781249984
+    },
+    {
+        "month_year": "July 2020",
+        "average_players": 36639.440389610376
+    },
+    {
+        "month_year": "July 2021",
+        "average_players": 33842.76054945053
+    },
+    {
+        "month_year": "June 2013",
+        "average_players": 22953.214375
+    },
+    {
+        "month_year": "June 2014",
+        "average_players": 39121.29545454544
+    },
+    {
+        "month_year": "June 2015",
+        "average_players": 41602.6628125
+    },
+    {
+        "month_year": "June 2016",
+        "average_players": 37365.58833333332
+    },
+    {
+        "month_year": "June 2017",
+        "average_players": 33641.002363636355
+    },
+    {
+        "month_year": "June 2018",
+        "average_players": 41818.84189655172
+    },
+    {
+        "month_year": "June 2019",
+        "average_players": 35682.422222222216
+    },
+    {
+        "month_year": "June 2020",
+        "average_players": 38223.4894736842
+    },
+    {
+        "month_year": "June 2021",
+        "average_players": 33160.86208791207
+    },
+    {
+        "month_year": "March 2013",
+        "average_players": 23206.782857142858
+    },
+    {
+        "month_year": "March 2014",
+        "average_players": 36366.759000000005
+    },
+    {
+        "month_year": "March 2015",
+        "average_players": 42035.03999999999
+    },
+    {
+        "month_year": "March 2016",
+        "average_players": 43320.6145945946
+    },
+    {
+        "month_year": "March 2017",
+        "average_players": 31603.204313725488
+    },
+    {
+        "month_year": "March 2018",
+        "average_players": 48776.64900000002
+    },
+    {
+        "month_year": "March 2019",
+        "average_players": 36956.88467741936
+    },
+    {
+        "month_year": "March 2020",
+        "average_players": 43962.64764705882
+    },
+    {
+        "month_year": "March 2021",
+        "average_players": 36855.46000000002
+    },
+    {
+        "month_year": "May 2013",
+        "average_players": 21052.880624999998
+    },
+    {
+        "month_year": "May 2014",
+        "average_players": 38032.56904761906
+    },
+    {
+        "month_year": "May 2015",
+        "average_players": 42885.91709677419
+    },
+    {
+        "month_year": "May 2016",
+        "average_players": 37413.42949999997
+    },
+    {
+        "month_year": "May 2017",
+        "average_players": 31031.555925925917
+    },
+    {
+        "month_year": "May 2018",
+        "average_players": 40834.96827586209
+    },
+    {
+        "month_year": "May 2019",
+        "average_players": 35655.08317460316
+    },
+    {
+        "month_year": "May 2020",
+        "average_players": 45587.08271428571
+    },
+    {
+        "month_year": "May 2021",
+        "average_players": 34937.00879120881
+    },
+    {
+        "month_year": "November 2012",
+        "average_players": 20863.071818181816
+    },
+    {
+        "month_year": "November 2013",
+        "average_players": 32906.5494117647
+    },
+    {
+        "month_year": "November 2014",
+        "average_players": 39802.52291666667
+    },
+    {
+        "month_year": "November 2015",
+        "average_players": 46233.84363636364
+    },
+    {
+        "month_year": "November 2016",
+        "average_players": 31404.161020408166
+    },
+    {
+        "month_year": "November 2017",
+        "average_players": 49045.67830508474
+    },
+    {
+        "month_year": "November 2018",
+        "average_players": 34128.15032786885
+    },
+    {
+        "month_year": "November 2019",
+        "average_players": 32855.953731343274
+    },
+    {
+        "month_year": "November 2020",
+        "average_players": 34066.84114942528
+    },
+    {
+        "month_year": "October 2012",
+        "average_players": 18119.63818181818
+    },
+    {
+        "month_year": "October 2013",
+        "average_players": 33154.382352941175
+    },
+    {
+        "month_year": "October 2014",
+        "average_players": 38772.78260869565
+    },
+    {
+        "month_year": "October 2015",
+        "average_players": 40338.711874999986
+    },
+    {
+        "month_year": "October 2016",
+        "average_players": 32317.403199999997
+    },
+    {
+        "month_year": "October 2017",
+        "average_players": 45866.333965517246
+    },
+    {
+        "month_year": "October 2018",
+        "average_players": 33907.22783333333
+    },
+    {
+        "month_year": "October 2019",
+        "average_players": 32528.143076923083
+    },
+    {
+        "month_year": "October 2020",
+        "average_players": 32006.725411764684
+    },
+    {
+        "month_year": "September 2012",
+        "average_players": 17491.603636363634
+    },
+    {
+        "month_year": "September 2013",
+        "average_players": 31537.8
+    },
+    {
+        "month_year": "September 2014",
+        "average_players": 37510.096956521746
+    },
+    {
+        "month_year": "September 2015",
+        "average_players": 38898.04281250001
+    },
+    {
+        "month_year": "September 2016",
+        "average_players": 32005.485652173906
+    },
+    {
+        "month_year": "September 2017",
+        "average_players": 40538.32800000001
+    },
+    {
+        "month_year": "September 2018",
+        "average_players": 37260.23283333332
+    },
+    {
+        "month_year": "September 2019",
+        "average_players": 32114.134062499983
+    },
+    {
+        "month_year": "September 2020",
+        "average_players": 33118.67219512195
+    },
+    {
+        "month_year": "September 2021",
+        "average_players": 32256.116836734695
+    }
+]

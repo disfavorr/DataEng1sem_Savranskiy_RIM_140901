@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Counter-Strike: Global Offensive",
+        "positive_ratings": 2644404,
+        "price": 0.0
+    },
+    {
+        "name": "Dota 2",
+        "positive_ratings": 863507,
+        "price": 0.0
+    },
+    {
+        "name": "Team Fortress 2",
+        "positive_ratings": 515879,
+        "price": 0.0
+    },
+    {
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+        "positive_ratings": 496184,
+        "price": 26.99
+    },
+    {
+        "name": "Garry's Mod",
+        "positive_ratings": 363721,
+        "price": 6.99
+    }
+]
