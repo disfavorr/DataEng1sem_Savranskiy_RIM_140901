@@ -1,0 +1,2522 @@
+[
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f90"
+        },
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "release_date": "2007-10-10",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 515879,
+        "negative_ratings": 34036,
+        "average_playtime": 8495,
+        "median_playtime": 623,
+        "owners": "20000000-50000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f92"
+        },
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "release_date": "2009-11-19",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 251789,
+        "negative_ratings": 8418,
+        "average_playtime": 1615,
+        "median_playtime": 566,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f93"
+        },
+        "appid": 570,
+        "name": "Dota 2",
+        "release_date": "2013-07-09",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action;Free to Play;Strategy",
+        "positive_ratings": 863507,
+        "negative_ratings": 142079,
+        "average_playtime": 23944,
+        "median_playtime": 801,
+        "owners": "100000000-200000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f96"
+        },
+        "appid": 730,
+        "name": "Counter-Strike: Global Offensive",
+        "release_date": "2012-08-21",
+        "developer": "Valve;Hidden Path Entertainment",
+        "publisher": "Valve",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 2644404,
+        "negative_ratings": 402313,
+        "average_playtime": 22494,
+        "median_playtime": 6502,
+        "owners": "50000000-100000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85ff6"
+        },
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "release_date": "2006-11-29",
+        "developer": "Facepunch Studios",
+        "publisher": "Valve",
+        "genres": "Indie;Simulation",
+        "positive_ratings": 363721,
+        "negative_ratings": 16433,
+        "average_playtime": 12422,
+        "median_playtime": 1875,
+        "owners": "10000000-20000000",
+        "price": 6.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8605b"
+        },
+        "appid": 8930,
+        "name": "Sid Meier's Civilization® V",
+        "release_date": "2010-09-23",
+        "developer": "Firaxis Games;Aspyr (Mac);Aspyr (Linux)",
+        "publisher": "2K;Aspyr (Mac);Aspyr (Linux)",
+        "genres": "Strategy",
+        "positive_ratings": 129030,
+        "negative_ratings": 5565,
+        "average_playtime": 4760,
+        "median_playtime": 1797,
+        "owners": "5000000-10000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d860a6"
+        },
+        "appid": 12210,
+        "name": "Grand Theft Auto IV",
+        "release_date": "2008-12-02",
+        "developer": "Rockstar North;Rockstar Toronto",
+        "publisher": "Rockstar Games",
+        "genres": "Action;Adventure",
+        "positive_ratings": 35240,
+        "negative_ratings": 18926,
+        "average_playtime": 1255,
+        "median_playtime": 634,
+        "owners": "2000000-5000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86172"
+        },
+        "appid": 24010,
+        "name": "Train Simulator 2019",
+        "release_date": "2015-09-17",
+        "developer": "Dovetail Games",
+        "publisher": "Dovetail Games - Trains",
+        "genres": "Simulation",
+        "positive_ratings": 8573,
+        "negative_ratings": 5336,
+        "average_playtime": 287,
+        "median_playtime": 385,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86304"
+        },
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "release_date": "2012-09-20",
+        "developer": "Gearbox Software;Aspyr (Mac);Aspyr (Linux)",
+        "publisher": "2K;Aspyr (Mac);Aspyr (Linux)",
+        "genres": "Action;RPG",
+        "positive_ratings": 144595,
+        "negative_ratings": 11021,
+        "average_playtime": 3276,
+        "median_playtime": 1139,
+        "owners": "5000000-10000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86364"
+        },
+        "appid": 65980,
+        "name": "Sid Meier's Civilization®: Beyond Earth™",
+        "release_date": "2014-10-23",
+        "developer": "Firaxis Games;Aspyr (Mac);Aspyr (Linux)",
+        "publisher": "2K;Aspyr (Mac);Aspyr (Linux)",
+        "genres": "Strategy",
+        "positive_ratings": 9555,
+        "negative_ratings": 8224,
+        "average_playtime": 932,
+        "median_playtime": 1552,
+        "owners": "1000000-2000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8637e"
+        },
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "release_date": "2011-11-10",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "genres": "RPG",
+        "positive_ratings": 237303,
+        "negative_ratings": 14951,
+        "average_playtime": 7089,
+        "median_playtime": 3885,
+        "owners": "10000000-20000000",
+        "price": 9.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d863d7"
+        },
+        "appid": 104900,
+        "name": "ORION: Prelude",
+        "release_date": "2013-04-16",
+        "developer": "Spiral Game Studios",
+        "publisher": "DANKIE",
+        "genres": "Action;Adventure;Indie;RPG",
+        "positive_ratings": 22057,
+        "negative_ratings": 7558,
+        "average_playtime": 263,
+        "median_playtime": 98,
+        "owners": "2000000-5000000",
+        "price": 0.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d863dd"
+        },
+        "appid": 105600,
+        "name": "Terraria",
+        "release_date": "2011-05-16",
+        "developer": "Re-Logic",
+        "publisher": "Re-Logic",
+        "genres": "Action;Adventure;Indie;RPG",
+        "positive_ratings": 255600,
+        "negative_ratings": 7797,
+        "average_playtime": 5585,
+        "median_playtime": 1840,
+        "owners": "5000000-10000000",
+        "price": 6.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d863e4"
+        },
+        "appid": 107410,
+        "name": "Arma 3",
+        "release_date": "2013-09-12",
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive",
+        "genres": "Action;Simulation;Strategy",
+        "positive_ratings": 105034,
+        "negative_ratings": 12524,
+        "average_playtime": 18823,
+        "median_playtime": 3621,
+        "owners": "2000000-5000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d863f0"
+        },
+        "appid": 109600,
+        "name": "Neverwinter",
+        "release_date": "2013-12-05",
+        "developer": "Cryptic Studios",
+        "publisher": "Perfect World Entertainment",
+        "genres": "Adventure;Free to Play;Massively Multiplayer;RPG",
+        "positive_ratings": 18517,
+        "negative_ratings": 5297,
+        "average_playtime": 1273,
+        "median_playtime": 543,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86400"
+        },
+        "appid": 113400,
+        "name": "APB Reloaded",
+        "release_date": "2011-12-06",
+        "developer": "Little Orbit",
+        "publisher": "Little Orbit",
+        "genres": "Action;Free to Play;Massively Multiplayer",
+        "positive_ratings": 20028,
+        "negative_ratings": 11779,
+        "average_playtime": 3835,
+        "median_playtime": 302,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d864aa"
+        },
+        "appid": 208650,
+        "name": "Batman™: Arkham Knight",
+        "release_date": "2015-06-23",
+        "developer": "Rocksteady Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "genres": "Action;Adventure",
+        "positive_ratings": 33121,
+        "negative_ratings": 12981,
+        "average_playtime": 1266,
+        "median_playtime": 1296,
+        "owners": "1000000-2000000",
+        "price": 15.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d864b4"
+        },
+        "appid": 209160,
+        "name": "Call of Duty®: Ghosts",
+        "release_date": "2014-03-25",
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "genres": "Action",
+        "positive_ratings": 14892,
+        "negative_ratings": 10757,
+        "average_playtime": 266,
+        "median_playtime": 307,
+        "owners": "1000000-2000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d864bf"
+        },
+        "appid": 209650,
+        "name": "Call of Duty®: Advanced Warfare - Gold Edition",
+        "release_date": "2014-11-03",
+        "developer": "Sledgehammer Games;Raven Software",
+        "publisher": "Activision",
+        "genres": "Action",
+        "positive_ratings": 13389,
+        "negative_ratings": 8379,
+        "average_playtime": 250,
+        "median_playtime": 267,
+        "owners": "500000-1000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d864dd"
+        },
+        "appid": 211820,
+        "name": "Starbound",
+        "release_date": "2016-07-22",
+        "developer": "Chucklefish",
+        "publisher": "Chucklefish",
+        "genres": "Action;Adventure;Casual;Indie;RPG",
+        "positive_ratings": 74162,
+        "negative_ratings": 7816,
+        "average_playtime": 3556,
+        "median_playtime": 2055,
+        "owners": "2000000-5000000",
+        "price": 11.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8650a"
+        },
+        "appid": 214950,
+        "name": "Total War™: ROME II - Emperor Edition",
+        "release_date": "2013-09-02",
+        "developer": "CREATIVE ASSEMBLY",
+        "publisher": "SEGA",
+        "genres": "Strategy",
+        "positive_ratings": 31864,
+        "negative_ratings": 13423,
+        "average_playtime": 5760,
+        "median_playtime": 1287,
+        "owners": "2000000-5000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86535"
+        },
+        "appid": 218230,
+        "name": "PlanetSide 2",
+        "release_date": "2012-11-20",
+        "developer": "Daybreak Game Company",
+        "publisher": "Daybreak Game Company",
+        "genres": "Action;Free to Play;Massively Multiplayer",
+        "positive_ratings": 35968,
+        "negative_ratings": 7753,
+        "average_playtime": 1051,
+        "median_playtime": 150,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86538"
+        },
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "release_date": "2013-08-13",
+        "developer": "OVERKILL - a Starbreeze Studio.",
+        "publisher": "Starbreeze Publishing AB",
+        "genres": "Action;RPG",
+        "positive_ratings": 308657,
+        "negative_ratings": 56523,
+        "average_playtime": 3975,
+        "median_playtime": 890,
+        "owners": "10000000-20000000",
+        "price": 7.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86544"
+        },
+        "appid": 219640,
+        "name": "Chivalry: Medieval Warfare",
+        "release_date": "2012-10-16",
+        "developer": "Torn Banner Studios",
+        "publisher": "Torn Banner Studios",
+        "genres": "Action;Indie",
+        "positive_ratings": 51499,
+        "negative_ratings": 10939,
+        "average_playtime": 675,
+        "median_playtime": 293,
+        "owners": "5000000-10000000",
+        "price": 18.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86550"
+        },
+        "appid": 220200,
+        "name": "Kerbal Space Program",
+        "release_date": "2015-04-27",
+        "developer": "Squad",
+        "publisher": "Private Division ",
+        "genres": "Indie;Simulation",
+        "positive_ratings": 49328,
+        "negative_ratings": 5168,
+        "average_playtime": 9223,
+        "median_playtime": 351,
+        "owners": "2000000-5000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86551"
+        },
+        "appid": 220240,
+        "name": "Far Cry 3",
+        "release_date": "2012-11-28",
+        "developer": "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 46331,
+        "negative_ratings": 5622,
+        "average_playtime": 836,
+        "median_playtime": 794,
+        "owners": "2000000-5000000",
+        "price": 16.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8655f"
+        },
+        "appid": 221100,
+        "name": "DayZ",
+        "release_date": "2018-12-13",
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive",
+        "genres": "Action;Adventure;Massively Multiplayer",
+        "positive_ratings": 118435,
+        "negative_ratings": 77169,
+        "average_playtime": 7235,
+        "median_playtime": 2798,
+        "owners": "2000000-5000000",
+        "price": 33.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86573"
+        },
+        "appid": 222880,
+        "name": "Insurgency",
+        "release_date": "2014-01-22",
+        "developer": "New World Interactive",
+        "publisher": "New World Interactive",
+        "genres": "Action;Indie;Strategy",
+        "positive_ratings": 92355,
+        "negative_ratings": 9570,
+        "average_playtime": 712,
+        "median_playtime": 245,
+        "owners": "2000000-5000000",
+        "price": 6.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86577"
+        },
+        "appid": 223100,
+        "name": "Homefront®: The Revolution",
+        "release_date": "2016-05-19",
+        "developer": "Dambuster Studios",
+        "publisher": "Deep Silver",
+        "genres": "Violent;Action;Adventure",
+        "positive_ratings": 6396,
+        "negative_ratings": 5102,
+        "average_playtime": 408,
+        "median_playtime": 484,
+        "owners": "500000-1000000",
+        "price": 24.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86588"
+        },
+        "appid": 224260,
+        "name": "No More Room in Hell",
+        "release_date": "2013-10-31",
+        "developer": "No More Room in Hell Team",
+        "publisher": "Lever Games",
+        "genres": "Action;Free to Play;Indie",
+        "positive_ratings": 48190,
+        "negative_ratings": 5747,
+        "average_playtime": 2661,
+        "median_playtime": 180,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865a2"
+        },
+        "appid": 225540,
+        "name": "Just Cause™ 3",
+        "release_date": "2015-11-30",
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix",
+        "genres": "Action;Adventure",
+        "positive_ratings": 37747,
+        "negative_ratings": 14024,
+        "average_playtime": 2086,
+        "median_playtime": 438,
+        "owners": "2000000-5000000",
+        "price": 11.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865b9"
+        },
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "release_date": "2012-10-12",
+        "developer": "SCS Software",
+        "publisher": "SCS Software",
+        "genres": "Indie;Simulation",
+        "positive_ratings": 176769,
+        "negative_ratings": 5825,
+        "average_playtime": 4942,
+        "median_playtime": 1413,
+        "owners": "5000000-10000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865c4"
+        },
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "release_date": "2016-10-18",
+        "developer": "RETO MOTO",
+        "publisher": "RETO MOTO",
+        "genres": "Action;Free to Play;Indie;Massively Multiplayer",
+        "positive_ratings": 65856,
+        "negative_ratings": 34416,
+        "average_playtime": 1752,
+        "median_playtime": 76,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865df"
+        },
+        "appid": 230410,
+        "name": "Warframe",
+        "release_date": "2013-03-25",
+        "developer": "Digital Extremes",
+        "publisher": "Digital Extremes",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 226541,
+        "negative_ratings": 20268,
+        "average_playtime": 5845,
+        "median_playtime": 394,
+        "owners": "20000000-50000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865ed"
+        },
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "release_date": "2013-06-25",
+        "developer": "Relic Entertainment;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "publisher": "SEGA;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "genres": "Strategy",
+        "positive_ratings": 32548,
+        "negative_ratings": 12038,
+        "average_playtime": 1846,
+        "median_playtime": 277,
+        "owners": "2000000-5000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d865f2"
+        },
+        "appid": 232090,
+        "name": "Killing Floor 2",
+        "release_date": "2016-11-18",
+        "developer": "Tripwire Interactive",
+        "publisher": "Tripwire Interactive",
+        "genres": "Action",
+        "positive_ratings": 60917,
+        "negative_ratings": 8354,
+        "average_playtime": 2967,
+        "median_playtime": 957,
+        "owners": "2000000-5000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8663c"
+        },
+        "appid": 236390,
+        "name": "War Thunder",
+        "release_date": "2013-08-15",
+        "developer": "Gaijin Entertainment",
+        "publisher": "Gaijin Entertainment",
+        "genres": "Action;Free to Play;Massively Multiplayer;Simulation",
+        "positive_ratings": 83852,
+        "negative_ratings": 22166,
+        "average_playtime": 4200,
+        "median_playtime": 297,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86645"
+        },
+        "appid": 236850,
+        "name": "Europa Universalis IV",
+        "release_date": "2013-08-13",
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive",
+        "genres": "Simulation;Strategy",
+        "positive_ratings": 40346,
+        "negative_ratings": 8254,
+        "average_playtime": 8138,
+        "median_playtime": 4572,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86669"
+        },
+        "appid": 238960,
+        "name": "Path of Exile",
+        "release_date": "2013-10-23",
+        "developer": "Grinding Gear Games",
+        "publisher": "Grinding Gear Games",
+        "genres": "Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG",
+        "positive_ratings": 71593,
+        "negative_ratings": 6117,
+        "average_playtime": 5263,
+        "median_playtime": 492,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8666e"
+        },
+        "appid": 239140,
+        "name": "Dying Light",
+        "release_date": "2015-01-26",
+        "developer": "Techland",
+        "publisher": "Techland Publishing",
+        "genres": "Action;RPG",
+        "positive_ratings": 78192,
+        "negative_ratings": 6176,
+        "average_playtime": 2033,
+        "median_playtime": 1299,
+        "owners": "2000000-5000000",
+        "price": 24.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86696"
+        },
+        "appid": 242760,
+        "name": "The Forest",
+        "release_date": "2018-04-30",
+        "developer": "Endnight Games Ltd",
+        "publisher": "Endnight Games Ltd",
+        "genres": "Action;Adventure;Indie;Simulation",
+        "positive_ratings": 110460,
+        "negative_ratings": 8881,
+        "average_playtime": 2417,
+        "median_playtime": 1127,
+        "owners": "2000000-5000000",
+        "price": 15.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d866a5"
+        },
+        "appid": 243470,
+        "name": "Watch_Dogs™",
+        "release_date": "2014-05-26",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 15159,
+        "negative_ratings": 7383,
+        "average_playtime": 1176,
+        "median_playtime": 1343,
+        "owners": "500000-1000000",
+        "price": 25.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d866bc"
+        },
+        "appid": 244850,
+        "name": "Space Engineers",
+        "release_date": "2019-02-28",
+        "developer": "Keen Software House",
+        "publisher": "Keen Software House",
+        "genres": "Action;Indie;Simulation;Strategy",
+        "positive_ratings": 60221,
+        "negative_ratings": 9609,
+        "average_playtime": 3739,
+        "median_playtime": 1147,
+        "owners": "2000000-5000000",
+        "price": 15.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d866ea"
+        },
+        "appid": 247730,
+        "name": "Nether: Resurrected",
+        "release_date": "2014-06-05",
+        "developer": "Phosphor Games Studio",
+        "publisher": "Nether Productions, LLC",
+        "genres": "Action;Indie;Massively Multiplayer;RPG;Simulation",
+        "positive_ratings": 7456,
+        "negative_ratings": 10167,
+        "average_playtime": 257,
+        "median_playtime": 291,
+        "owners": "500000-1000000",
+        "price": 6.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8673b"
+        },
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "release_date": "2013-12-13",
+        "developer": "The Fun Pimps",
+        "publisher": "The Fun Pimps Entertainment LLC",
+        "genres": "Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access",
+        "positive_ratings": 60718,
+        "negative_ratings": 16905,
+        "average_playtime": 2953,
+        "median_playtime": 574,
+        "owners": "2000000-5000000",
+        "price": 18.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8675d"
+        },
+        "appid": 252490,
+        "name": "Rust",
+        "release_date": "2018-02-08",
+        "developer": "Facepunch Studios",
+        "publisher": "Facepunch Studios",
+        "genres": "Action;Adventure;Indie;Massively Multiplayer;RPG",
+        "positive_ratings": 220370,
+        "negative_ratings": 53709,
+        "average_playtime": 9352,
+        "median_playtime": 2234,
+        "owners": "5000000-10000000",
+        "price": 27.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8676c"
+        },
+        "appid": 252950,
+        "name": "Rocket League®",
+        "release_date": "2015-07-07",
+        "developer": "Psyonix, Inc.",
+        "publisher": "Psyonix, Inc.",
+        "genres": "Action;Indie;Racing;Sports",
+        "positive_ratings": 242561,
+        "negative_ratings": 21816,
+        "average_playtime": 5825,
+        "median_playtime": 1462,
+        "owners": "5000000-10000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86780"
+        },
+        "appid": 253710,
+        "name": "theHunter Classic",
+        "release_date": "2014-06-03",
+        "developer": "Expansive Worlds;Avalanche Studios",
+        "publisher": "Expansive Worlds;Avalanche Studios",
+        "genres": "Action;Adventure;Free to Play;Simulation;Sports",
+        "positive_ratings": 11440,
+        "negative_ratings": 15403,
+        "average_playtime": 163,
+        "median_playtime": 29,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d867a4"
+        },
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "release_date": "2015-03-10",
+        "developer": "Colossal Order Ltd.",
+        "publisher": "Paradox Interactive",
+        "genres": "Simulation;Strategy",
+        "positive_ratings": 67553,
+        "negative_ratings": 6005,
+        "average_playtime": 3225,
+        "median_playtime": 444,
+        "owners": "5000000-10000000",
+        "price": 22.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86814"
+        },
+        "appid": 261640,
+        "name": "Borderlands: The Pre-Sequel",
+        "release_date": "2014-10-16",
+        "developer": "2K Australia;Gearbox Software;Aspyr (Mac);Aspyr (Linux)",
+        "publisher": "2K;Aspyr (Mac);Aspyr (Linux)",
+        "genres": "Action;RPG",
+        "positive_ratings": 16909,
+        "negative_ratings": 5076,
+        "average_playtime": 1661,
+        "median_playtime": 886,
+        "owners": "2000000-5000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86820"
+        },
+        "appid": 262060,
+        "name": "Darkest Dungeon®",
+        "release_date": "2016-01-19",
+        "developer": "Red Hook Studios",
+        "publisher": "Red Hook Studios",
+        "genres": "Indie;RPG;Strategy",
+        "positive_ratings": 41544,
+        "negative_ratings": 6741,
+        "average_playtime": 1121,
+        "median_playtime": 619,
+        "owners": "2000000-5000000",
+        "price": 18.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86880"
+        },
+        "appid": 264710,
+        "name": "Subnautica",
+        "release_date": "2018-01-23",
+        "developer": "Unknown Worlds Entertainment",
+        "publisher": "Unknown Worlds Entertainment",
+        "genres": "Adventure;Indie",
+        "positive_ratings": 90155,
+        "negative_ratings": 5413,
+        "average_playtime": 1446,
+        "median_playtime": 937,
+        "owners": "2000000-5000000",
+        "price": 19.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86899"
+        },
+        "appid": 265930,
+        "name": "Goat Simulator",
+        "release_date": "2014-04-01",
+        "developer": "Coffee Stain Studios",
+        "publisher": "Coffee Stain Publishing",
+        "genres": "Casual;Indie;Simulation",
+        "positive_ratings": 45892,
+        "negative_ratings": 5779,
+        "average_playtime": 309,
+        "median_playtime": 149,
+        "owners": "2000000-5000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d868d0"
+        },
+        "appid": 268500,
+        "name": "XCOM® 2",
+        "release_date": "2016-02-04",
+        "developer": "Firaxis Games;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "publisher": "2K;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "genres": "Strategy",
+        "positive_ratings": 28774,
+        "negative_ratings": 7018,
+        "average_playtime": 1891,
+        "median_playtime": 1985,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8692b"
+        },
+        "appid": 271590,
+        "name": "Grand Theft Auto V",
+        "release_date": "2015-04-13",
+        "developer": "Rockstar North",
+        "publisher": "Rockstar Games",
+        "genres": "Action;Adventure",
+        "positive_ratings": 329061,
+        "negative_ratings": 139308,
+        "average_playtime": 9837,
+        "median_playtime": 4834,
+        "owners": "10000000-20000000",
+        "price": 24.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86943"
+        },
+        "appid": 273110,
+        "name": "Counter-Strike Nexon: Zombies",
+        "release_date": "2014-10-07",
+        "developer": "Valve Corporation, Nexon Korea Corporation",
+        "publisher": "Nexon Korea Corporation",
+        "genres": "Action;Casual;Free to Play;Massively Multiplayer",
+        "positive_ratings": 22130,
+        "negative_ratings": 12127,
+        "average_playtime": 4047,
+        "median_playtime": 112,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86980"
+        },
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "release_date": "2016-08-12",
+        "developer": "Hello Games",
+        "publisher": "Hello Games",
+        "genres": "Action;Adventure",
+        "positive_ratings": 63444,
+        "negative_ratings": 56488,
+        "average_playtime": 2004,
+        "median_playtime": 1222,
+        "owners": "1000000-2000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d869b7"
+        },
+        "appid": 278970,
+        "name": "Digger Online",
+        "release_date": "2015-06-02",
+        "developer": "DiggerWorld Ltd.",
+        "publisher": "DiggerWorld Ltd.",
+        "genres": "Action;Adventure",
+        "positive_ratings": 8700,
+        "negative_ratings": 10498,
+        "average_playtime": 56,
+        "median_playtime": 24,
+        "owners": "200000-500000",
+        "price": 6.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d869f9"
+        },
+        "appid": 281990,
+        "name": "Stellaris",
+        "release_date": "2016-05-09",
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive",
+        "genres": "Simulation;Strategy",
+        "positive_ratings": 35327,
+        "negative_ratings": 10036,
+        "average_playtime": 2729,
+        "median_playtime": 1563,
+        "owners": "2000000-5000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86a54"
+        },
+        "appid": 285190,
+        "name": "Warhammer 40,000: Dawn of War III",
+        "release_date": "2017-04-27",
+        "developer": "Relic Entertainment;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "publisher": "SEGA;Feral Interactive (Mac);Feral Interactive (Linux)",
+        "genres": "Violent;Gore;Action;Simulation;Strategy",
+        "positive_ratings": 6793,
+        "negative_ratings": 8336,
+        "average_playtime": 704,
+        "median_playtime": 817,
+        "owners": "500000-1000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86a63"
+        },
+        "appid": 285900,
+        "name": "Gang Beasts",
+        "release_date": "2017-12-12",
+        "developer": "Boneloaf",
+        "publisher": "Double Fine Presents",
+        "genres": "Action;Adventure;Casual;Indie",
+        "positive_ratings": 13439,
+        "negative_ratings": 5880,
+        "average_playtime": 681,
+        "median_playtime": 141,
+        "owners": "1000000-2000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86a7d"
+        },
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "release_date": "2014-08-27",
+        "developer": "4A Games",
+        "publisher": "Deep Silver",
+        "genres": "Action",
+        "positive_ratings": 28179,
+        "negative_ratings": 7313,
+        "average_playtime": 434,
+        "median_playtime": 350,
+        "owners": "2000000-5000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86a8f"
+        },
+        "appid": 287390,
+        "name": "Metro: Last Light Redux",
+        "release_date": "2014-08-27",
+        "developer": "4A Games",
+        "publisher": "Deep Silver",
+        "genres": "Action",
+        "positive_ratings": 23483,
+        "negative_ratings": 5874,
+        "average_playtime": 363,
+        "median_playtime": 328,
+        "owners": "2000000-5000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86abb"
+        },
+        "appid": 289070,
+        "name": "Sid Meier’s Civilization® VI",
+        "release_date": "2016-10-20",
+        "developer": "Firaxis Games;Aspyr (Mac);Aspyr (Linux)",
+        "publisher": "2K;Aspyr (Mac);Aspyr (Linux)",
+        "genres": "Strategy",
+        "positive_ratings": 39127,
+        "negative_ratings": 18325,
+        "average_playtime": 3371,
+        "median_playtime": 2390,
+        "owners": "2000000-5000000",
+        "price": 49.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86ad3"
+        },
+        "appid": 289650,
+        "name": "Assassin's Creed® Unity",
+        "release_date": "2014-12-19",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 12350,
+        "negative_ratings": 7354,
+        "average_playtime": 1686,
+        "median_playtime": 1790,
+        "owners": "500000-1000000",
+        "price": 25.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86b04"
+        },
+        "appid": 291480,
+        "name": "Warface",
+        "release_date": "2014-07-01",
+        "developer": "My.com",
+        "publisher": "My.com",
+        "genres": "Action;Free to Play;Massively Multiplayer",
+        "positive_ratings": 32751,
+        "negative_ratings": 14409,
+        "average_playtime": 949,
+        "median_playtime": 104,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86b05"
+        },
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "release_date": "2017-10-17",
+        "developer": "Blue Mammoth Games",
+        "publisher": "Ubisoft",
+        "genres": "Action;Free to Play;Indie",
+        "positive_ratings": 73268,
+        "negative_ratings": 14489,
+        "average_playtime": 724,
+        "median_playtime": 146,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86b2c"
+        },
+        "appid": 292730,
+        "name": "Call of Duty®: Infinite Warfare",
+        "release_date": "2016-11-03",
+        "developer": "Infinity Ward",
+        "publisher": "Activision",
+        "genres": "Action;Adventure",
+        "positive_ratings": 7821,
+        "negative_ratings": 10570,
+        "average_playtime": 3609,
+        "median_playtime": 3890,
+        "owners": "500000-1000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c00"
+        },
+        "appid": 299740,
+        "name": "Miscreated",
+        "release_date": "2018-12-18",
+        "developer": "Entrada Interactive LLC",
+        "publisher": "Entrada Interactive LLC",
+        "genres": "Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy",
+        "positive_ratings": 17255,
+        "negative_ratings": 7903,
+        "average_playtime": 619,
+        "median_playtime": 675,
+        "owners": "500000-1000000",
+        "price": 19.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c30"
+        },
+        "appid": 301520,
+        "name": "Robocraft",
+        "release_date": "2017-08-24",
+        "developer": "Freejam",
+        "publisher": "Freejam",
+        "genres": "Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation",
+        "positive_ratings": 80360,
+        "negative_ratings": 30987,
+        "average_playtime": 1369,
+        "median_playtime": 211,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c6a"
+        },
+        "appid": 302830,
+        "name": "BLOCKADE 3D",
+        "release_date": "2014-12-19",
+        "developer": "Novalink",
+        "publisher": "Novalink",
+        "genres": "Action;Free to Play;Early Access",
+        "positive_ratings": 15821,
+        "negative_ratings": 11583,
+        "average_playtime": 499,
+        "median_playtime": 144,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c89"
+        },
+        "appid": 304050,
+        "name": "Trove",
+        "release_date": "2015-07-09",
+        "developer": "Trion Worlds",
+        "publisher": "Trion Worlds",
+        "genres": "Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG",
+        "positive_ratings": 47897,
+        "negative_ratings": 13708,
+        "average_playtime": 2602,
+        "median_playtime": 184,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c90"
+        },
+        "appid": 304390,
+        "name": "FOR HONOR™",
+        "release_date": "2017-02-13",
+        "developer": "Ubisoft Montreal;Ubisoft Quebec;Ubisoft Toronto;Blue Byte",
+        "publisher": "Ubisoft",
+        "genres": "Action",
+        "positive_ratings": 34790,
+        "negative_ratings": 25920,
+        "average_playtime": 951,
+        "median_playtime": 696,
+        "owners": "2000000-5000000",
+        "price": 12.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86c9f"
+        },
+        "appid": 304930,
+        "name": "Unturned",
+        "release_date": "2017-07-07",
+        "developer": "Smartly Dressed Games",
+        "publisher": "Smartly Dressed Games",
+        "genres": "Action;Adventure;Casual;Free to Play;Indie",
+        "positive_ratings": 292574,
+        "negative_ratings": 31482,
+        "average_playtime": 3248,
+        "median_playtime": 413,
+        "owners": "20000000-50000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86cbe"
+        },
+        "appid": 306130,
+        "name": "The Elder Scrolls® Online",
+        "release_date": "2017-05-22",
+        "developer": "Zenimax Online Studios",
+        "publisher": "Bethesda Softworks",
+        "genres": "Massively Multiplayer;RPG",
+        "positive_ratings": 33719,
+        "negative_ratings": 11672,
+        "average_playtime": 10659,
+        "median_playtime": 3143,
+        "owners": "1000000-2000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86cee"
+        },
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "release_date": "2015-04-13",
+        "developer": "NetherRealm Studios;QLOC",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "genres": "Action",
+        "positive_ratings": 21484,
+        "negative_ratings": 7154,
+        "average_playtime": 1030,
+        "median_playtime": 446,
+        "owners": "1000000-2000000",
+        "price": 15.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86d21"
+        },
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "release_date": "2016-02-15",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "genres": "Action",
+        "positive_ratings": 8300,
+        "negative_ratings": 8498,
+        "average_playtime": 793,
+        "median_playtime": 1203,
+        "owners": "500000-1000000",
+        "price": 15.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86d2d"
+        },
+        "appid": 311210,
+        "name": "Call of Duty®: Black Ops III",
+        "release_date": "2015-11-05",
+        "developer": "Treyarch;Aspyr (Mac)",
+        "publisher": "Activision;Aspyr (Mac)",
+        "genres": "Action;Adventure",
+        "positive_ratings": 36255,
+        "negative_ratings": 23157,
+        "average_playtime": 4925,
+        "median_playtime": 2513,
+        "owners": "1000000-2000000",
+        "price": 44.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86d75"
+        },
+        "appid": 313120,
+        "name": "Stranded Deep",
+        "release_date": "2015-01-23",
+        "developer": "Beam Team Games",
+        "publisher": "Beam Team Pty Ltd",
+        "genres": "Adventure;Indie;Early Access",
+        "positive_ratings": 15604,
+        "negative_ratings": 5459,
+        "average_playtime": 272,
+        "median_playtime": 246,
+        "owners": "500000-1000000",
+        "price": 10.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86ddd"
+        },
+        "appid": 316010,
+        "name": "Magic Duels",
+        "release_date": "2015-07-29",
+        "developer": "Stainless Games Ltd.",
+        "publisher": "Wizards of the Coast LLC",
+        "genres": "Free to Play;Strategy",
+        "positive_ratings": 16599,
+        "negative_ratings": 6912,
+        "average_playtime": 1854,
+        "median_playtime": 125,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86ffa"
+        },
+        "appid": 333930,
+        "name": "Dirty Bomb®",
+        "release_date": "2015-06-01",
+        "developer": "Splash Damage",
+        "publisher": "Warchest Ltd.",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 43743,
+        "negative_ratings": 10891,
+        "average_playtime": 715,
+        "median_playtime": 73,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87069"
+        },
+        "appid": 337000,
+        "name": "Deus Ex: Mankind Divided",
+        "release_date": "2016-08-23",
+        "developer": "Eidos Montreal;Feral Interactive (Linux);Feral Interactive (Mac)",
+        "publisher": "Square Enix;Feral Interactive (Linux);Feral Interactive (Mac)",
+        "genres": "Action;RPG",
+        "positive_ratings": 16023,
+        "negative_ratings": 7344,
+        "average_playtime": 798,
+        "median_playtime": 977,
+        "owners": "1000000-2000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d871aa"
+        },
+        "appid": 344760,
+        "name": "Reign Of Kings",
+        "release_date": "2015-12-15",
+        "developer": "Code}{atch",
+        "publisher": "Code}{atch",
+        "genres": "Action;Adventure;Indie;RPG;Simulation",
+        "positive_ratings": 8076,
+        "negative_ratings": 5997,
+        "average_playtime": 3498,
+        "median_playtime": 3322,
+        "owners": "200000-500000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d871e5"
+        },
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "release_date": "2017-08-27",
+        "developer": "Studio Wildcard;Instinct Games;Efecto Studios;Virtual Basement LLC",
+        "publisher": "Studio Wildcard",
+        "genres": "Action;Adventure;Indie;Massively Multiplayer;RPG",
+        "positive_ratings": 145035,
+        "negative_ratings": 66603,
+        "average_playtime": 14154,
+        "median_playtime": 1470,
+        "owners": "5000000-10000000",
+        "price": 44.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8735f"
+        },
+        "appid": 355840,
+        "name": "Survarium",
+        "release_date": "2015-04-02",
+        "developer": "Vostok Games",
+        "publisher": "Vostok Games",
+        "genres": "Action;Free to Play;Massively Multiplayer;RPG;Early Access",
+        "positive_ratings": 9985,
+        "negative_ratings": 9441,
+        "average_playtime": 6569,
+        "median_playtime": 59,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87370"
+        },
+        "appid": 356190,
+        "name": "Middle-earth™: Shadow of War™",
+        "release_date": "2017-10-09",
+        "developer": "Monolith Productions",
+        "publisher": "WB Games",
+        "genres": "Action;Adventure;RPG",
+        "positive_ratings": 19813,
+        "negative_ratings": 5633,
+        "average_playtime": 1587,
+        "median_playtime": 1265,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d873e7"
+        },
+        "appid": 359320,
+        "name": "Elite Dangerous",
+        "release_date": "2015-04-02",
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments",
+        "genres": "Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy",
+        "positive_ratings": 26143,
+        "negative_ratings": 11006,
+        "average_playtime": 4545,
+        "median_playtime": 2579,
+        "owners": "1000000-2000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d873f0"
+        },
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six® Siege",
+        "release_date": "2015-12-01",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "genres": "Action",
+        "positive_ratings": 251178,
+        "negative_ratings": 59620,
+        "average_playtime": 7504,
+        "median_playtime": 2543,
+        "owners": "5000000-10000000",
+        "price": 16.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87408"
+        },
+        "appid": 360430,
+        "name": "Mafia III",
+        "release_date": "2016-10-06",
+        "developer": "Hangar 13;Aspyr (Mac)",
+        "publisher": "2K;Aspyr (Mac)",
+        "genres": "Sexual Content;Nudity;Violent;Gore;Action;Adventure",
+        "positive_ratings": 13366,
+        "negative_ratings": 13650,
+        "average_playtime": 564,
+        "median_playtime": 548,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87433"
+        },
+        "appid": 361420,
+        "name": "ASTRONEER",
+        "release_date": "2019-02-05",
+        "developer": "System Era Softworks",
+        "publisher": "System Era Softworks",
+        "genres": "Adventure;Indie",
+        "positive_ratings": 28375,
+        "negative_ratings": 5246,
+        "average_playtime": 1213,
+        "median_playtime": 1089,
+        "owners": "1000000-2000000",
+        "price": 23.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87499"
+        },
+        "appid": 364360,
+        "name": "Total War: WARHAMMER",
+        "release_date": "2016-05-24",
+        "developer": "CREATIVE ASSEMBLY;Feral Interactive (Linux);Feral Interactive (Mac)",
+        "publisher": "SEGA;Feral Interactive (Linux);Feral Interactive (Mac)",
+        "genres": "Action;Strategy",
+        "positive_ratings": 29826,
+        "negative_ratings": 9878,
+        "average_playtime": 3610,
+        "median_playtime": 4356,
+        "owners": "1000000-2000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d874dd"
+        },
+        "appid": 365590,
+        "name": "Tom Clancy’s The Division™",
+        "release_date": "2016-03-07",
+        "developer": "Massive Entertainment",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure;RPG",
+        "positive_ratings": 49832,
+        "negative_ratings": 25607,
+        "average_playtime": 4252,
+        "median_playtime": 1952,
+        "owners": "2000000-5000000",
+        "price": 41.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d875e6"
+        },
+        "appid": 372000,
+        "name": "Tree of Savior (English Ver.)",
+        "release_date": "2016-03-28",
+        "developer": "IMCGAMES Co.,Ltd.",
+        "publisher": "IMCGAMES Co.,Ltd.",
+        "genres": "Free to Play;Massively Multiplayer;RPG",
+        "positive_ratings": 9323,
+        "negative_ratings": 5897,
+        "average_playtime": 2119,
+        "median_playtime": 760,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87636"
+        },
+        "appid": 374320,
+        "name": "DARK SOULS™ III",
+        "release_date": "2016-04-11",
+        "developer": "FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc.;BANDAI NAMCO Entertainment",
+        "genres": "Action",
+        "positive_ratings": 100412,
+        "negative_ratings": 9953,
+        "average_playtime": 4222,
+        "median_playtime": 1776,
+        "owners": "2000000-5000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87656"
+        },
+        "appid": 375230,
+        "name": "Warhammer 40,000: Eternal Crusade",
+        "release_date": "2017-03-16",
+        "developer": "Behaviour Interactive Inc.",
+        "publisher": "Behaviour Interactive Inc.",
+        "genres": "Violent;Action;Adventure;Free to Play;Massively Multiplayer",
+        "positive_ratings": 5439,
+        "negative_ratings": 5580,
+        "average_playtime": 495,
+        "median_playtime": 43,
+        "owners": "500000-1000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87699"
+        },
+        "appid": 377160,
+        "name": "Fallout 4",
+        "release_date": "2015-11-09",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "genres": "RPG",
+        "positive_ratings": 110376,
+        "negative_ratings": 45377,
+        "average_playtime": 4822,
+        "median_playtime": 2904,
+        "owners": "5000000-10000000",
+        "price": 19.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d876eb"
+        },
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "release_date": "2018-02-13",
+        "developer": "Warhorse Studios",
+        "publisher": "Warhorse Studios;Deep Silver",
+        "genres": "Action;Adventure;RPG",
+        "positive_ratings": 30024,
+        "negative_ratings": 9307,
+        "average_playtime": 2106,
+        "median_playtime": 2282,
+        "owners": "1000000-2000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d876f1"
+        },
+        "appid": 379720,
+        "name": "DOOM",
+        "release_date": "2016-05-12",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks",
+        "genres": "Action",
+        "positive_ratings": 68536,
+        "negative_ratings": 5156,
+        "average_playtime": 751,
+        "median_playtime": 560,
+        "owners": "2000000-5000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8771b"
+        },
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "release_date": "2016-06-14",
+        "developer": "Behaviour Digital Inc.",
+        "publisher": "Behaviour Digital Inc.",
+        "genres": "Action",
+        "positive_ratings": 140721,
+        "negative_ratings": 44985,
+        "average_playtime": 5904,
+        "median_playtime": 585,
+        "owners": "5000000-10000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8776e"
+        },
+        "appid": 383870,
+        "name": "Firewatch",
+        "release_date": "2016-02-09",
+        "developer": "Campo Santo",
+        "publisher": "Panic;Campo Santo",
+        "genres": "Adventure;Indie",
+        "positive_ratings": 32886,
+        "negative_ratings": 5524,
+        "average_playtime": 206,
+        "median_playtime": 257,
+        "owners": "500000-1000000",
+        "price": 14.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d877d6"
+        },
+        "appid": 386180,
+        "name": "Crossout",
+        "release_date": "2017-07-26",
+        "developer": "Targem Games",
+        "publisher": "Gaijin Entertainment",
+        "genres": "Action;Free to Play;Massively Multiplayer;Racing",
+        "positive_ratings": 12372,
+        "negative_ratings": 6196,
+        "average_playtime": 864,
+        "median_playtime": 126,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d877dd"
+        },
+        "appid": 386360,
+        "name": "SMITE®",
+        "release_date": "2015-09-08",
+        "developer": "Titan Forge Games",
+        "publisher": "Hi-Rez Studios",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 34514,
+        "negative_ratings": 8895,
+        "average_playtime": 1954,
+        "median_playtime": 126,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8789a"
+        },
+        "appid": 391460,
+        "name": "WARMODE",
+        "release_date": "2015-08-25",
+        "developer": "Novalink",
+        "publisher": "Novalink",
+        "genres": "Action;Free to Play;Early Access",
+        "positive_ratings": 8983,
+        "negative_ratings": 6166,
+        "average_playtime": 75,
+        "median_playtime": 36,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d878db"
+        },
+        "appid": 393380,
+        "name": "Squad",
+        "release_date": "2015-12-14",
+        "developer": "Offworld Industries",
+        "publisher": "Offworld Industries",
+        "genres": "Action;Indie;Strategy;Early Access",
+        "positive_ratings": 23539,
+        "negative_ratings": 6008,
+        "average_playtime": 3173,
+        "median_playtime": 1563,
+        "owners": "500000-1000000",
+        "price": 32.5,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d878de"
+        },
+        "appid": 393420,
+        "name": "Hurtworld",
+        "release_date": "2015-12-03",
+        "developer": "Bankroll Studios",
+        "publisher": "Bankroll Studios",
+        "genres": "Action;Adventure;Simulation;Early Access",
+        "positive_ratings": 15574,
+        "negative_ratings": 5362,
+        "average_playtime": 5439,
+        "median_playtime": 7099,
+        "owners": "500000-1000000",
+        "price": 19.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d878fe"
+        },
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "release_date": "2016-06-06",
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive",
+        "genres": "Simulation;Strategy",
+        "positive_ratings": 34711,
+        "negative_ratings": 5251,
+        "average_playtime": 9413,
+        "median_playtime": 4181,
+        "owners": "1000000-2000000",
+        "price": 34.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87982"
+        },
+        "appid": 397900,
+        "name": "Business Tour - Board Game with Online Multiplayer",
+        "release_date": "2017-07-27",
+        "developer": "Creobit",
+        "publisher": "8Floor",
+        "genres": "Casual;Free to Play;Indie;Massively Multiplayer;Strategy",
+        "positive_ratings": 9693,
+        "negative_ratings": 5411,
+        "average_playtime": 584,
+        "median_playtime": 279,
+        "owners": "1000000-2000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87a3c"
+        },
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "release_date": "2016-11-11",
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks",
+        "genres": "Action",
+        "positive_ratings": 21022,
+        "negative_ratings": 5059,
+        "average_playtime": 1117,
+        "median_playtime": 1107,
+        "owners": "1000000-2000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87b0b"
+        },
+        "appid": 409710,
+        "name": "BioShock™ Remastered",
+        "release_date": "2016-09-15",
+        "developer": "2K Boston;2K Australia;Blind Squirrel;Feral Interactive (Mac)",
+        "publisher": "2K;Feral Interactive (Mac)",
+        "genres": "Action;RPG",
+        "positive_ratings": 8652,
+        "negative_ratings": 5121,
+        "average_playtime": 247,
+        "median_playtime": 149,
+        "owners": "2000000-5000000",
+        "price": 9.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87dfe"
+        },
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "release_date": "2018-02-28",
+        "developer": "NantG",
+        "publisher": "Daybreak Game Company",
+        "genres": "Action;Adventure;Free to Play;Massively Multiplayer",
+        "positive_ratings": 111434,
+        "negative_ratings": 91664,
+        "average_playtime": 3142,
+        "median_playtime": 162,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87ec1"
+        },
+        "appid": 438740,
+        "name": "Friday the 13th: The Game",
+        "release_date": "2017-05-25",
+        "developer": "IllFonic",
+        "publisher": "Gun Media",
+        "genres": "Action",
+        "positive_ratings": 19663,
+        "negative_ratings": 8304,
+        "average_playtime": 4823,
+        "median_playtime": 4944,
+        "owners": "500000-1000000",
+        "price": 15.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87efb"
+        },
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "release_date": "2018-05-08",
+        "developer": "Funcom",
+        "publisher": "Funcom",
+        "genres": "Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy",
+        "positive_ratings": 22001,
+        "negative_ratings": 9594,
+        "average_playtime": 4431,
+        "median_playtime": 5167,
+        "owners": "500000-1000000",
+        "price": 33.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87f3e"
+        },
+        "appid": 444090,
+        "name": "Paladins®",
+        "release_date": "2018-05-08",
+        "developer": "Evil Mojo Games",
+        "publisher": "Hi-Rez Studios",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 169580,
+        "negative_ratings": 32407,
+        "average_playtime": 1595,
+        "median_playtime": 407,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87f45"
+        },
+        "appid": 444200,
+        "name": "World of Tanks Blitz MMO",
+        "release_date": "2016-11-09",
+        "developer": "Wargaming Group Limited",
+        "publisher": "Wargaming Group Limited",
+        "genres": "Action;Free to Play;Massively Multiplayer",
+        "positive_ratings": 14069,
+        "negative_ratings": 5988,
+        "average_playtime": 5046,
+        "median_playtime": 383,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d87fb8"
+        },
+        "appid": 447040,
+        "name": "Watch_Dogs® 2",
+        "release_date": "2016-11-28",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 20905,
+        "negative_ratings": 5366,
+        "average_playtime": 1231,
+        "median_playtime": 1342,
+        "owners": "500000-1000000",
+        "price": 49.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d881bb"
+        },
+        "appid": 460930,
+        "name": "Tom Clancy's Ghost Recon® Wildlands",
+        "release_date": "2017-03-06",
+        "developer": "Ubisoft Paris;Ubisoft Annecy;Ubisoft Bucharest;Ubisoft Montpellier;Ubisoft Milan;Reflections;Ubisoft Belgrade",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 26547,
+        "negative_ratings": 9944,
+        "average_playtime": 1987,
+        "median_playtime": 1242,
+        "owners": "1000000-2000000",
+        "price": 41.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d882a9"
+        },
+        "appid": 466240,
+        "name": "Deceit",
+        "release_date": "2017-03-03",
+        "developer": "Automaton",
+        "publisher": "Automaton",
+        "genres": "Action;Free to Play;Indie",
+        "positive_ratings": 18666,
+        "negative_ratings": 6032,
+        "average_playtime": 469,
+        "median_playtime": 63,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8839d"
+        },
+        "appid": 476600,
+        "name": "Call of Duty®: WWII",
+        "release_date": "2017-11-02",
+        "developer": "Sledgehammer Games;Raven Software",
+        "publisher": "Activision",
+        "genres": "Action",
+        "positive_ratings": 10753,
+        "negative_ratings": 8288,
+        "average_playtime": 309,
+        "median_playtime": 324,
+        "owners": "500000-1000000",
+        "price": 44.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d884bb"
+        },
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "release_date": "2016-10-27",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks",
+        "genres": "RPG",
+        "positive_ratings": 47749,
+        "negative_ratings": 14719,
+        "average_playtime": 2418,
+        "median_playtime": 821,
+        "owners": "2000000-5000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88702"
+        },
+        "appid": 504370,
+        "name": "Battlerite",
+        "release_date": "2017-11-08",
+        "developer": "Stunlock Studios",
+        "publisher": "Stunlock Studios",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 41080,
+        "negative_ratings": 8013,
+        "average_playtime": 1614,
+        "median_playtime": 186,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8885b"
+        },
+        "appid": 513710,
+        "name": "SCUM",
+        "release_date": "2018-08-29",
+        "developer": "Gamepires;Croteam",
+        "publisher": "Devolver Digital",
+        "genres": "Action;Adventure;Indie;Massively Multiplayer;Early Access",
+        "positive_ratings": 15934,
+        "negative_ratings": 8556,
+        "average_playtime": 1264,
+        "median_playtime": 594,
+        "owners": "1000000-2000000",
+        "price": 15.49,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d889d9"
+        },
+        "appid": 524220,
+        "name": "NieR:Automata™",
+        "release_date": "2017-03-17",
+        "developer": "Square Enix;PlatinumGames Inc.",
+        "publisher": "Square Enix",
+        "genres": "Action;RPG",
+        "positive_ratings": 39387,
+        "negative_ratings": 9414,
+        "average_playtime": 2022,
+        "median_playtime": 1782,
+        "owners": "500000-1000000",
+        "price": 29.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88d8c"
+        },
+        "appid": 550650,
+        "name": "Black Squad",
+        "release_date": "2017-07-28",
+        "developer": "NS STUDIO",
+        "publisher": "NS STUDIO",
+        "genres": "Action;Free to Play;Early Access",
+        "positive_ratings": 33695,
+        "negative_ratings": 11081,
+        "average_playtime": 1835,
+        "median_playtime": 42,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88dd8"
+        },
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "release_date": "2018-03-08",
+        "developer": "Fatshark",
+        "publisher": "Fatshark",
+        "genres": "Action",
+        "positive_ratings": 21509,
+        "negative_ratings": 7336,
+        "average_playtime": 2025,
+        "median_playtime": 1024,
+        "owners": "2000000-5000000",
+        "price": 23.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88dd9"
+        },
+        "appid": 552520,
+        "name": "Far Cry® 5",
+        "release_date": "2018-03-26",
+        "developer": "Ubisoft Montreal;Red Storm;Ubisoft Shanghai;Ubisoft Toronto;Ubisoft Kiev",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure",
+        "positive_ratings": 23373,
+        "negative_ratings": 11081,
+        "average_playtime": 1869,
+        "median_playtime": 1694,
+        "owners": "500000-1000000",
+        "price": 49.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88e57"
+        },
+        "appid": 555570,
+        "name": "Infestation: The New Z",
+        "release_date": "2016-11-22",
+        "developer": "Fredaikis AB",
+        "publisher": "Fredaikis AB",
+        "genres": "Action;Free to Play;Indie;Massively Multiplayer;RPG",
+        "positive_ratings": 13726,
+        "negative_ratings": 14201,
+        "average_playtime": 376,
+        "median_playtime": 73,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89197"
+        },
+        "appid": 577800,
+        "name": "NBA 2K18",
+        "release_date": "2017-09-14",
+        "developer": "Visual Concepts",
+        "publisher": "2K",
+        "genres": "Simulation;Sports",
+        "positive_ratings": 4832,
+        "negative_ratings": 12067,
+        "average_playtime": 3499,
+        "median_playtime": 4773,
+        "owners": "1000000-2000000",
+        "price": 39.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d891a1"
+        },
+        "appid": 578080,
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+        "release_date": "2017-12-21",
+        "developer": "PUBG Corporation",
+        "publisher": "PUBG Corporation",
+        "genres": "Action;Adventure;Massively Multiplayer",
+        "positive_ratings": 496184,
+        "negative_ratings": 487076,
+        "average_playtime": 22938,
+        "median_playtime": 12434,
+        "owners": "50000000-100000000",
+        "price": 26.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89222"
+        },
+        "appid": 582010,
+        "name": "MONSTER HUNTER: WORLD",
+        "release_date": "2018-08-09",
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd.",
+        "genres": "Action",
+        "positive_ratings": 72029,
+        "negative_ratings": 35294,
+        "average_playtime": 6512,
+        "median_playtime": 5372,
+        "owners": "5000000-10000000",
+        "price": 49.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89225"
+        },
+        "appid": 582160,
+        "name": "Assassin's Creed® Origins",
+        "release_date": "2017-10-26",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "genres": "Action;Adventure;RPG",
+        "positive_ratings": 31644,
+        "negative_ratings": 6007,
+        "average_playtime": 2908,
+        "median_playtime": 3143,
+        "owners": "1000000-2000000",
+        "price": 49.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8923b"
+        },
+        "appid": 582660,
+        "name": "Black Desert Online",
+        "release_date": "2017-05-24",
+        "developer": "Pearl Abyss",
+        "publisher": "Kakao Games Europe B.V.",
+        "genres": "Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy",
+        "positive_ratings": 10337,
+        "negative_ratings": 5759,
+        "average_playtime": 15507,
+        "median_playtime": 3322,
+        "owners": "1000000-2000000",
+        "price": 7.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89259"
+        },
+        "appid": 583950,
+        "name": "Artifact",
+        "release_date": "2018-11-28",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Strategy",
+        "positive_ratings": 9937,
+        "negative_ratings": 10501,
+        "average_playtime": 1797,
+        "median_playtime": 1616,
+        "owners": "1000000-2000000",
+        "price": 15.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d893cb"
+        },
+        "appid": 594650,
+        "name": "Hunt Showdown",
+        "release_date": "2018-02-22",
+        "developer": "Crytek",
+        "publisher": "Crytek",
+        "genres": "Action;Early Access",
+        "positive_ratings": 20679,
+        "negative_ratings": 7074,
+        "average_playtime": 991,
+        "median_playtime": 1169,
+        "owners": "1000000-2000000",
+        "price": 25.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d895e3"
+        },
+        "appid": 611500,
+        "name": "Quake Champions",
+        "release_date": "2017-08-22",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks",
+        "genres": "Action;Free to Play;Early Access",
+        "positive_ratings": 15879,
+        "negative_ratings": 7098,
+        "average_playtime": 754,
+        "median_playtime": 102,
+        "owners": "500000-1000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89da2"
+        },
+        "appid": 674020,
+        "name": "World War 3",
+        "release_date": "2018-10-19",
+        "developer": "The Farm 51",
+        "publisher": "The Farm 51",
+        "genres": "Action;Indie;Early Access",
+        "positive_ratings": 8525,
+        "negative_ratings": 5015,
+        "average_playtime": 364,
+        "median_playtime": 384,
+        "owners": "200000-500000",
+        "price": 24.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89ecd"
+        },
+        "appid": 681660,
+        "name": "Bless Online",
+        "release_date": "2018-10-23",
+        "developer": "NEOWIZ BLESS STUDIO",
+        "publisher": "NEOWIZ",
+        "genres": "Action;Adventure;Free to Play;Massively Multiplayer;RPG",
+        "positive_ratings": 3960,
+        "negative_ratings": 5806,
+        "average_playtime": 5598,
+        "median_playtime": 8392,
+        "owners": "200000-500000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8a8cb"
+        },
+        "appid": 755790,
+        "name": "Ring of Elysium",
+        "release_date": "2018-09-19",
+        "developer": "Aurora Studio",
+        "publisher": "TCH Scarlet Limited",
+        "genres": "Action;Free to Play;Massively Multiplayer;Early Access",
+        "positive_ratings": 39746,
+        "negative_ratings": 13191,
+        "average_playtime": 736,
+        "median_playtime": 124,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8b0cb"
+        },
+        "appid": 813820,
+        "name": "Realm Royale",
+        "release_date": "2018-06-05",
+        "developer": "Heroic Leap Games",
+        "publisher": "Hi-Rez Studios",
+        "genres": "Action;Free to Play;Early Access",
+        "positive_ratings": 17220,
+        "negative_ratings": 9825,
+        "average_playtime": 360,
+        "median_playtime": 107,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8b354"
+        },
+        "appid": 834910,
+        "name": "ATLAS",
+        "release_date": "2018-12-22",
+        "developer": "Grapeshot Games;Instinct Games",
+        "publisher": "Grapeshot Games",
+        "genres": "Action;Adventure;Massively Multiplayer;RPG;Early Access",
+        "positive_ratings": 8621,
+        "negative_ratings": 16359,
+        "average_playtime": 2755,
+        "median_playtime": 3575,
+        "owners": "1000000-2000000",
+        "price": 23.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8b42e"
+        },
+        "appid": 841370,
+        "name": "NBA 2K19",
+        "release_date": "2018-09-06",
+        "developer": "Visual Concepts",
+        "publisher": "2K",
+        "genres": "Simulation;Sports",
+        "positive_ratings": 3093,
+        "negative_ratings": 8080,
+        "average_playtime": 2901,
+        "median_playtime": 2803,
+        "owners": "200000-500000",
+        "price": 39.99,
+        "source": "csv"
+    }
+]

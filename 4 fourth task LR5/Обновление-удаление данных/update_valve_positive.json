@@ -1,0 +1,822 @@
+[
+    {
+        "_id": {
+            "$oid": "6761c2c4aa21200d08d7655a"
+        },
+        "game": "Aperture Desk Job",
+        "release": "2022-03-01",
+        "peak_players": "3519",
+        "positive_reviews": "18042",
+        "negative_reviews": "924",
+        "total_reviews": "18966",
+        "rating": "92.8",
+        "primary_genre": "Adventure (25)",
+        "store_genres": "Action (1), Adventure (25), Casual (4), Free to Play (37)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; SDK.OpenVR; SDK.Qt; SDK.SDL; SDK.Steam_Audio; SDK.Steam_Networking; SDK.Vorbis",
+        "review_percentage": "95.0",
+        "all_time_peak": "3519",
+        "all_time_peak_date": "2022-03-01",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c4aa21200d08d7c0e4"
+        },
+        "game": "Half-Life: Alyx",
+        "release": "2020-03-23",
+        "peak_players": "42858",
+        "positive_reviews": "78299",
+        "negative_reviews": "1262",
+        "total_reviews": "79561",
+        "rating": "96.79",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1), Adventure (25)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; SDK.OpenVR; SDK.Qt; SDK.SDL; SDK.Steam_Audio; SDK.Steam_Networking",
+        "review_percentage": "98.0",
+        "all_time_peak": "42858",
+        "all_time_peak_date": "2020-03-23",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c4aa21200d08d7e88c"
+        },
+        "game": "Dota Underlords",
+        "release": "2019-06-20",
+        "peak_players": "202334",
+        "positive_reviews": "74074",
+        "negative_reviews": "15823",
+        "total_reviews": "89897",
+        "rating": "81.35",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Casual (4), Free to Play (37), Strategy (2)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; SDK.Bink_Video; SDK.OpenVR; SDK.Qt; SDK.SDL; SDK.Steam_Networking",
+        "review_percentage": "82.0",
+        "all_time_peak": "202334",
+        "all_time_peak_date": "2019-06-23",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d81bad"
+        },
+        "game": "Artifact Classic",
+        "release": "2018-11-28",
+        "peak_players": "60646",
+        "positive_reviews": "11563",
+        "negative_reviews": "13240",
+        "total_reviews": "24803",
+        "rating": "46.78",
+        "primary_genre": "Strategy (2)",
+        "store_genres": "Strategy (2)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; SDK.Bink_Video; SDK.OpenVR; SDK.Qt; SDK.SDL",
+        "review_percentage": "46.0",
+        "all_time_peak": "60646",
+        "all_time_peak_date": "2018-11-29",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d8383c"
+        },
+        "game": "The Lab",
+        "release": "2016-04-05",
+        "peak_players": "927",
+        "positive_reviews": "5395",
+        "negative_reviews": "277",
+        "total_reviews": "5672",
+        "rating": "91.77",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Free to Play (37)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; Engine.Unity; SDK.Bink_Video; SDK.FMOD; SDK.Miles_Sound_System; SDK.OpenVR; SDK.Qt; SDK.SDL; SDK.Steam_Audio",
+        "review_percentage": "95.0",
+        "all_time_peak": "927",
+        "all_time_peak_date": "2018-05-27",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d852d6"
+        },
+        "game": "Free to Play",
+        "release": "2014-03-19",
+        "peak_players": "53002",
+        "positive_reviews": "10441",
+        "negative_reviews": "540",
+        "total_reviews": "10981",
+        "rating": "92.34",
+        "primary_genre": "Unknown Genre (0)",
+        "store_genres": "",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Adobe_AIR; SDK.Adobe_Flash; SDK.cURL",
+        "review_percentage": "95.0",
+        "all_time_peak": "53002",
+        "all_time_peak_date": "2014-03-19",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85635"
+        },
+        "game": "Counter-Strike Nexon: Studio",
+        "release": "2014-10-07",
+        "peak_players": "10007",
+        "positive_reviews": "27025",
+        "negative_reviews": "13877",
+        "total_reviews": "40902",
+        "rating": "65.42",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Action (1), Casual (4), Free to Play (37), Massively Multiplayer (29)",
+        "publisher": "NEXON",
+        "developer": "Valve",
+        "detected_technologies": "AntiCheat.BlackCipher; SDK.Bink_Video; SDK.CEF; SDK.FMOD; SDK.Miles_Sound_System; SDK.OpenSSL; SDK.cURL",
+        "review_percentage": "66.0",
+        "all_time_peak": "10007",
+        "all_time_peak_date": "2014-10-13",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85959"
+        },
+        "game": "Dota 2",
+        "release": "2013-07-09",
+        "peak_players": "1295114",
+        "positive_reviews": "1618770",
+        "negative_reviews": "341275",
+        "total_reviews": "1960045",
+        "rating": "82.17",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Action (1), Free to Play (37), Strategy (2)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source2; SDK.AMD_GPU_Services; SDK.Qt; SDK.SDL; SDK.Steam_Audio; SDK.Steam_Networking; SDK.Vorbis",
+        "review_percentage": "82.0",
+        "all_time_peak": "1295114",
+        "all_time_peak_date": "2016-03-06",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85a71"
+        },
+        "game": "Counter-Strike: Global Offensive",
+        "release": "2012-08-21",
+        "peak_players": "1519457",
+        "positive_reviews": "6307931",
+        "negative_reviews": "809845",
+        "total_reviews": "7117776",
+        "rating": "88.29",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Action (1), Free to Play (37)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; Engine.Source2; SDK.AMD_GPU_Services; SDK.Miles_Sound_System; SDK.NVIDIA_Nsight_Aftermath; SDK.Qt; SDK.Steam_Audio; SDK.Steam_Networking",
+        "review_percentage": "88.0",
+        "all_time_peak": "1818773",
+        "all_time_peak_date": "2023-05-06",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85c45"
+        },
+        "game": "Alien Swarm",
+        "release": "2010-07-19",
+        "peak_players": "60467",
+        "positive_reviews": "19477",
+        "negative_reviews": "1054",
+        "total_reviews": "20531",
+        "rating": "92.61",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.Miles_Sound_System",
+        "review_percentage": "94.0",
+        "all_time_peak": "60467",
+        "all_time_peak_date": "2010-07-20",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85e27"
+        },
+        "game": "Left 4 Dead",
+        "release": "2008-11-17",
+        "peak_players": "30616",
+        "positive_reviews": "45550",
+        "negative_reviews": "1763",
+        "total_reviews": "47313",
+        "rating": "94.46",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.CEF; SDK.Miles_Sound_System",
+        "review_percentage": "96.0",
+        "all_time_peak": "30616",
+        "all_time_peak_date": "2009-04-22",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85ed9"
+        },
+        "game": "Portal",
+        "release": "2007-10-10",
+        "peak_players": "20672",
+        "positive_reviews": "126704",
+        "negative_reviews": "1934",
+        "total_reviews": "128638",
+        "rating": "97.09",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.CEF; SDK.Miles_Sound_System; SDK.SDL",
+        "review_percentage": "98.0",
+        "all_time_peak": "20672",
+        "all_time_peak_date": "2010-05-14",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85eda"
+        },
+        "game": "Half-Life 2: Episode Two",
+        "release": "2007-10-10",
+        "peak_players": "1419",
+        "positive_reviews": "32528",
+        "negative_reviews": "982",
+        "total_reviews": "33510",
+        "rating": "95.03",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.CEF; SDK.Miles_Sound_System; SDK.SDL",
+        "review_percentage": "97.0",
+        "all_time_peak": "1419",
+        "all_time_peak_date": "2020-03-29",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85edf"
+        },
+        "game": "Team Fortress 2",
+        "release": "2007-10-10",
+        "peak_players": "167951",
+        "positive_reviews": "886744",
+        "negative_reviews": "58942",
+        "total_reviews": "945686",
+        "rating": "93.07",
+        "primary_genre": "Free to Play (37)",
+        "store_genres": "Action (1), Free to Play (37)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.Miles_Sound_System; SDK.OpenVR; SDK.SDL; SDK.Steam_Networking; SDK.cURL",
+        "review_percentage": "93.0",
+        "all_time_peak": "253997",
+        "all_time_peak_date": "2023-07-13",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85f41"
+        },
+        "game": "Half-Life 2: Episode One",
+        "release": "2006-06-01",
+        "peak_players": "1132",
+        "positive_reviews": "23472",
+        "negative_reviews": "1042",
+        "total_reviews": "24514",
+        "rating": "93.57",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.CEF; SDK.Miles_Sound_System; SDK.SDL",
+        "review_percentage": "95.0",
+        "all_time_peak": "1132",
+        "all_time_peak_date": "2020-03-29",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c5aa21200d08d85f6d"
+        },
+        "game": "Half-Life Deathmatch: Source",
+        "release": "2006-05-01",
+        "peak_players": "79",
+        "positive_reviews": "2646",
+        "negative_reviews": "919",
+        "total_reviews": "3565",
+        "rating": "72.16",
+        "primary_genre": "Action (1)",
+        "store_genres": "Action (1)",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "detected_technologies": "Engine.Source; SDK.Bink_Video; SDK.Miles_Sound_System; SDK.OpenVR; SDK.SDL",
+        "review_percentage": "74.0",
+        "all_time_peak": "79",
+        "all_time_peak_date": "2018-05-25",
+        "source": "json",
+        "positive_ratings": 0.0
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7d"
+        },
+        "appid": 10,
+        "name": "Counter-Strike",
+        "release_date": "2000-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 136987.40000000002,
+        "negative_ratings": 3339,
+        "average_playtime": 17612,
+        "median_playtime": 317,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7e"
+        },
+        "appid": 20,
+        "name": "Team Fortress Classic",
+        "release_date": "1999-04-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 3649.8,
+        "negative_ratings": 633,
+        "average_playtime": 277,
+        "median_playtime": 62,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7f"
+        },
+        "appid": 30,
+        "name": "Day of Defeat",
+        "release_date": "2003-05-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 3757.6000000000004,
+        "negative_ratings": 398,
+        "average_playtime": 187,
+        "median_playtime": 34,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f80"
+        },
+        "appid": 40,
+        "name": "Deathmatch Classic",
+        "release_date": "2001-06-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 1400.3000000000002,
+        "negative_ratings": 267,
+        "average_playtime": 258,
+        "median_playtime": 184,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f82"
+        },
+        "appid": 60,
+        "name": "Ricochet",
+        "release_date": "2000-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 3033.8,
+        "negative_ratings": 684,
+        "average_playtime": 175,
+        "median_playtime": 10,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f83"
+        },
+        "appid": 70,
+        "name": "Half-Life",
+        "release_date": "1998-11-08",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 30530.500000000004,
+        "negative_ratings": 1100,
+        "average_playtime": 1300,
+        "median_playtime": 83,
+        "owners": "5000000-10000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f84"
+        },
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "release_date": "2004-03-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 13332.000000000002,
+        "negative_ratings": 1439,
+        "average_playtime": 427,
+        "median_playtime": 43,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f86"
+        },
+        "appid": 220,
+        "name": "Half-Life 2",
+        "release_date": "2004-11-16",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 74692.20000000001,
+        "negative_ratings": 2419,
+        "average_playtime": 691,
+        "median_playtime": 402,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f87"
+        },
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "release_date": "2004-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 84304.0,
+        "negative_ratings": 3497,
+        "average_playtime": 6842,
+        "median_playtime": 400,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f88"
+        },
+        "appid": 280,
+        "name": "Half-Life: Source",
+        "release_date": "2004-06-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 4143.700000000001,
+        "negative_ratings": 1053,
+        "average_playtime": 190,
+        "median_playtime": 214,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f89"
+        },
+        "appid": 300,
+        "name": "Day of Defeat: Source",
+        "release_date": "2010-07-12",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 11537.900000000001,
+        "negative_ratings": 1210,
+        "average_playtime": 1356,
+        "median_playtime": 134,
+        "owners": "5000000-10000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8a"
+        },
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "release_date": "2004-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 6622.000000000001,
+        "negative_ratings": 787,
+        "average_playtime": 311,
+        "median_playtime": 32,
+        "owners": "10000000-20000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8b"
+        },
+        "appid": 340,
+        "name": "Half-Life 2: Lost Coast",
+        "release_date": "2005-10-27",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 6361.3,
+        "negative_ratings": 1020,
+        "average_playtime": 46,
+        "median_playtime": 29,
+        "owners": "10000000-20000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8c"
+        },
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "release_date": "2006-05-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 1498.2,
+        "negative_ratings": 473,
+        "average_playtime": 102,
+        "median_playtime": 81,
+        "owners": "5000000-10000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8d"
+        },
+        "appid": 380,
+        "name": "Half-Life 2: Episode One",
+        "release_date": "2006-06-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 8698.800000000001,
+        "negative_ratings": 517,
+        "average_playtime": 281,
+        "median_playtime": 184,
+        "owners": "5000000-10000000",
+        "price": 5.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8e"
+        },
+        "appid": 400,
+        "name": "Portal",
+        "release_date": "2007-10-10",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 56981.100000000006,
+        "negative_ratings": 1080,
+        "average_playtime": 288,
+        "median_playtime": 137,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8f"
+        },
+        "appid": 420,
+        "name": "Half-Life 2: Episode Two",
+        "release_date": "2007-10-10",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 15292.2,
+        "negative_ratings": 696,
+        "average_playtime": 354,
+        "median_playtime": 301,
+        "owners": "5000000-10000000",
+        "price": 5.79,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f90"
+        },
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "release_date": "2007-10-10",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action;Free to Play",
+        "positive_ratings": 567466.9,
+        "negative_ratings": 34036,
+        "average_playtime": 8495,
+        "median_playtime": 623,
+        "owners": "20000000-50000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f91"
+        },
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "release_date": "2008-11-17",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 19746.100000000002,
+        "negative_ratings": 948,
+        "average_playtime": 897,
+        "median_playtime": 278,
+        "owners": "5000000-10000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f92"
+        },
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "release_date": "2009-11-19",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 276967.9,
+        "negative_ratings": 8418,
+        "average_playtime": 1615,
+        "median_playtime": 566,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f93"
+        },
+        "appid": 570,
+        "name": "Dota 2",
+        "release_date": "2013-07-09",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action;Free to Play;Strategy",
+        "positive_ratings": 949857.7000000001,
+        "negative_ratings": 142079,
+        "average_playtime": 23944,
+        "median_playtime": 801,
+        "owners": "100000000-200000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f94"
+        },
+        "appid": 620,
+        "name": "Portal 2",
+        "release_date": "2011-04-18",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action;Adventure",
+        "positive_ratings": 152042.0,
+        "negative_ratings": 1891,
+        "average_playtime": 1102,
+        "median_playtime": 520,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f95"
+        },
+        "appid": 630,
+        "name": "Alien Swarm",
+        "release_date": "2010-07-19",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Action",
+        "positive_ratings": 19178.5,
+        "negative_ratings": 941,
+        "average_playtime": 371,
+        "median_playtime": 83,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85fa6"
+        },
+        "appid": 1840,
+        "name": "Source Filmmaker",
+        "release_date": "2012-07-10",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Animation & Modeling;Video Production",
+        "positive_ratings": 16591.300000000003,
+        "negative_ratings": 1111,
+        "average_playtime": 239,
+        "median_playtime": 77,
+        "owners": "1000000-2000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d88054"
+        },
+        "appid": 450390,
+        "name": "The Lab",
+        "release_date": "2016-04-05",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Free to Play",
+        "positive_ratings": 3218.6000000000004,
+        "negative_ratings": 145,
+        "average_playtime": 95,
+        "median_playtime": 127,
+        "owners": "500000-1000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d89259"
+        },
+        "appid": 583950,
+        "name": "Artifact",
+        "release_date": "2018-11-28",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Strategy",
+        "positive_ratings": 10930.7,
+        "negative_ratings": 10501,
+        "average_playtime": 1797,
+        "median_playtime": 1616,
+        "owners": "1000000-2000000",
+        "price": 15.99,
+        "source": "csv"
+    }
+]

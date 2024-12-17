@@ -1,0 +1,362 @@
+[
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7d"
+        },
+        "appid": 10,
+        "name": "Counter-Strike",
+        "release_date": "2000-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 136987.40000000002,
+        "negative_ratings": 3339,
+        "average_playtime": 17612,
+        "median_playtime": 317,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7e"
+        },
+        "appid": 20,
+        "name": "Team Fortress Classic",
+        "release_date": "1999-04-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 3649.8,
+        "negative_ratings": 633,
+        "average_playtime": 277,
+        "median_playtime": 62,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f7f"
+        },
+        "appid": 30,
+        "name": "Day of Defeat",
+        "release_date": "2003-05-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 3757.6000000000004,
+        "negative_ratings": 398,
+        "average_playtime": 187,
+        "median_playtime": 34,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f80"
+        },
+        "appid": 40,
+        "name": "Deathmatch Classic",
+        "release_date": "2001-06-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 1400.3000000000002,
+        "negative_ratings": 267,
+        "average_playtime": 258,
+        "median_playtime": 184,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f81"
+        },
+        "appid": 50,
+        "name": "Half-Life: Opposing Force",
+        "release_date": "1999-11-01",
+        "developer": "Gearbox Software",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 5250,
+        "negative_ratings": 288,
+        "average_playtime": 624,
+        "median_playtime": 415,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f82"
+        },
+        "appid": 60,
+        "name": "Ricochet",
+        "release_date": "2000-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 3033.8,
+        "negative_ratings": 684,
+        "average_playtime": 175,
+        "median_playtime": 10,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f83"
+        },
+        "appid": 70,
+        "name": "Half-Life",
+        "release_date": "1998-11-08",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 30530.500000000004,
+        "negative_ratings": 1100,
+        "average_playtime": 1300,
+        "median_playtime": 83,
+        "owners": "5000000-10000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f84"
+        },
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "release_date": "2004-03-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 13332.000000000002,
+        "negative_ratings": 1439,
+        "average_playtime": 427,
+        "median_playtime": 43,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f85"
+        },
+        "appid": 130,
+        "name": "Half-Life: Blue Shift",
+        "release_date": "2001-06-01",
+        "developer": "Gearbox Software",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 3822,
+        "negative_ratings": 420,
+        "average_playtime": 361,
+        "median_playtime": 205,
+        "owners": "5000000-10000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f86"
+        },
+        "appid": 220,
+        "name": "Half-Life 2",
+        "release_date": "2004-11-16",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 74692.20000000001,
+        "negative_ratings": 2419,
+        "average_playtime": 691,
+        "median_playtime": 402,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f87"
+        },
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "release_date": "2004-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 84304.0,
+        "negative_ratings": 3497,
+        "average_playtime": 6842,
+        "median_playtime": 400,
+        "owners": "10000000-20000000",
+        "price": 7.19,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f88"
+        },
+        "appid": 280,
+        "name": "Half-Life: Source",
+        "release_date": "2004-06-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 4143.700000000001,
+        "negative_ratings": 1053,
+        "average_playtime": 190,
+        "median_playtime": 214,
+        "owners": "2000000-5000000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d85f8a"
+        },
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "release_date": "2004-11-01",
+        "developer": "Valve",
+        "publisher": "Valve",
+        "genres": "Retro",
+        "positive_ratings": 6622.000000000001,
+        "negative_ratings": 787,
+        "average_playtime": 311,
+        "median_playtime": 32,
+        "owners": "10000000-20000000",
+        "price": 3.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d860c8"
+        },
+        "appid": 13230,
+        "name": "Unreal Tournament 2004: Editor's Choice Edition",
+        "release_date": "2004-03-17",
+        "developer": "Epic Games, Inc.",
+        "publisher": "Epic Games, Inc.",
+        "genres": "Retro",
+        "positive_ratings": 2211,
+        "negative_ratings": 66,
+        "average_playtime": 414,
+        "median_playtime": 496,
+        "owners": "200000-500000",
+        "price": 8.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86287"
+        },
+        "appid": 40990,
+        "name": "Mafia",
+        "release_date": "2002-08-28",
+        "developer": "Illusion Softworks",
+        "publisher": "2K",
+        "genres": "Retro",
+        "positive_ratings": 1727,
+        "negative_ratings": 180,
+        "average_playtime": 32,
+        "median_playtime": 32,
+        "owners": "200000-500000",
+        "price": 7.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d86359"
+        },
+        "appid": 65540,
+        "name": "Gothic 1",
+        "release_date": "2001-03-15",
+        "developer": "Piranha Bytes",
+        "publisher": "THQ Nordic",
+        "genres": "Retro",
+        "positive_ratings": 3396,
+        "negative_ratings": 523,
+        "average_playtime": 409,
+        "median_playtime": 412,
+        "owners": "200000-500000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8641e"
+        },
+        "appid": 200960,
+        "name": "Geneforge 1",
+        "release_date": "2001-12-01",
+        "developer": "Spiderweb Software",
+        "publisher": "Spiderweb Software",
+        "genres": "Retro",
+        "positive_ratings": 268,
+        "negative_ratings": 17,
+        "average_playtime": 0,
+        "median_playtime": 0,
+        "owners": "100000-200000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d8641f"
+        },
+        "appid": 200980,
+        "name": "Geneforge 2",
+        "release_date": "2003-07-01",
+        "developer": "Spiderweb Software",
+        "publisher": "Spiderweb Software",
+        "genres": "Retro",
+        "positive_ratings": 32,
+        "negative_ratings": 3,
+        "average_playtime": 0,
+        "median_playtime": 0,
+        "owners": "50000-100000",
+        "price": 0.0,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d867dc"
+        },
+        "appid": 259340,
+        "name": "Chicken Shoot Gold",
+        "release_date": "2003-11-01",
+        "developer": "ToonTRAXX Studios",
+        "publisher": "Topware Interactive",
+        "genres": "Retro",
+        "positive_ratings": 139,
+        "negative_ratings": 108,
+        "average_playtime": 326,
+        "median_playtime": 301,
+        "owners": "100000-200000",
+        "price": 4.99,
+        "source": "csv"
+    },
+    {
+        "_id": {
+            "$oid": "6761c2c7aa21200d08d869fa"
+        },
+        "appid": 282010,
+        "name": "Carmageddon Max Pack",
+        "release_date": "1997-06-30",
+        "developer": "Stainless Games Ltd",
+        "publisher": "THQ Nordic",
+        "genres": "Retro",
+        "positive_ratings": 352,
+        "negative_ratings": 35,
+        "average_playtime": 13,
+        "median_playtime": 13,
+        "owners": "50000-100000",
+        "price": 5.99,
+        "source": "csv"
+    }
+]
