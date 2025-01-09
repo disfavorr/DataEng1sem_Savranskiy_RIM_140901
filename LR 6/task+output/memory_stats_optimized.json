@@ -1,0 +1,98 @@
+[
+    {
+        "Column":"Contact",
+        "Memory_Bytes":118229246
+    },
+    {
+        "Column":"Contact Person",
+        "Memory_Bytes":40603046
+    },
+    {
+        "Column":"Job Id",
+        "Memory_Bytes":12927520
+    },
+    {
+        "Column":"longitude",
+        "Memory_Bytes":6463760
+    },
+    {
+        "Column":"Company Size",
+        "Memory_Bytes":6463760
+    },
+    {
+        "Column":"latitude",
+        "Memory_Bytes":6463760
+    },
+    {
+        "Column":"Company Profile",
+        "Memory_Bytes":3476505
+    },
+    {
+        "Column":"Job Description",
+        "Memory_Bytes":3331658
+    },
+    {
+        "Column":"Responsibilities",
+        "Memory_Bytes":3330432
+    },
+    {
+        "Column":"Company",
+        "Memory_Bytes":3329535
+    },
+    {
+        "Column":"skills",
+        "Memory_Bytes":3312259
+    },
+    {
+        "Column":"Job Posting Date",
+        "Memory_Bytes":3297409
+    },
+    {
+        "Column":"Salary Range",
+        "Memory_Bytes":3285799
+    },
+    {
+        "Column":"Role",
+        "Memory_Bytes":3269496
+    },
+    {
+        "Column":"Country",
+        "Memory_Bytes":3254489
+    },
+    {
+        "Column":"location",
+        "Memory_Bytes":3254343
+    },
+    {
+        "Column":"Job Title",
+        "Memory_Bytes":3246954
+    },
+    {
+        "Column":"Experience",
+        "Memory_Bytes":1620360
+    },
+    {
+        "Column":"Benefits",
+        "Memory_Bytes":1618275
+    },
+    {
+        "Column":"Job Portal",
+        "Memory_Bytes":1617563
+    },
+    {
+        "Column":"Qualifications",
+        "Memory_Bytes":1616849
+    },
+    {
+        "Column":"Work Type",
+        "Memory_Bytes":1616438
+    },
+    {
+        "Column":"Preference",
+        "Memory_Bytes":1616233
+    },
+    {
+        "Column":"Index",
+        "Memory_Bytes":132
+    }
+]

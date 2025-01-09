@@ -1,0 +1,114 @@
+file in memory size =    3306550 КБ
+Responsibilities              :     383474 КБ:    11.5974% : object
+Job Description               :     382551 КБ:    11.5695% : object
+Company Profile               :     376503 КБ:    11.3866% : object
+skills                        :     309321 КБ:     9.3548% : object
+Benefits                      :     291843 КБ:     8.8262% : object
+Role                          :     122663 КБ:     3.7097% : object
+Job Title                     :     117327 КБ:     3.5483% : object
+Contact                       :     115458 КБ:     3.4918% : object
+Company                       :     114740 КБ:     3.4701% : object
+Contact Person                :     110629 КБ:     3.3458% : object
+Experience                    :     110069 КБ:     3.3288% : object
+Job Portal                    :     105790 КБ:     3.1994% : object
+Job Posting Date              :     105730 КБ:     3.1976% : object
+Salary Range                  :     105110 КБ:     3.1789% : object
+Country                       :     104566 КБ:     3.1624% : object
+location                      :     103965 КБ:     3.1442% : object
+Preference                    :      97313 КБ:     2.9431% : object
+Qualifications                :      96102 КБ:     2.9064% : object
+Job Id                        :      12624 КБ:     0.3818% : int64
+latitude                      :      12624 КБ:     0.3818% : float64
+longitude                     :      12624 КБ:     0.3818% : float64
+Company Size                  :      12624 КБ:     0.3818% : int64
+3180.67 MB
+195.43 MB
+24.66 MB
+18.49 MB
+             before   after
+Job Id        int64  uint64
+Company Size  int64  uint32
+24.66 MB
+12.33 MB
+            before    after
+latitude   float64  float32
+longitude  float64  float32
+file in memory size =    3307503 КБ
+Responsibilities              :     383474 КБ:    11.5941% : object
+Job Description               :     383059 КБ:    11.5815% : object
+Company Profile               :     376503 КБ:    11.3833% : object
+skills                        :     309321 КБ:     9.3521% : object
+Benefits                      :     291843 КБ:     8.8237% : object
+Role                          :     122663 КБ:     3.7086% : object
+Job Title                     :     117327 КБ:     3.5473% : object
+Contact                       :     115458 КБ:     3.4908% : object
+Company                       :     114765 КБ:     3.4699% : object
+Contact Person                :     110629 КБ:     3.3448% : object
+Experience                    :     110069 КБ:     3.3279% : object
+Job Portal                    :     105790 КБ:     3.1985% : object
+Job Posting Date              :     105730 КБ:     3.1967% : object
+Salary Range                  :     105110 КБ:     3.1779% : object
+Country                       :     104566 КБ:     3.1615% : object
+location                      :     104385 КБ:      3.156% : object
+Work Type                     :     102890 КБ:     3.1108% : object
+Preference                    :      97313 КБ:     2.9422% : object
+Qualifications                :      96102 КБ:     2.9056% : object
+Job Id                        :      12624 КБ:     0.3817% : int64
+latitude                      :      12624 КБ:     0.3817% : float64
+longitude                     :      12624 КБ:     0.3817% : float64
+Company Size                  :      12624 КБ:     0.3817% : int64
+3229.98 MB
+226.26 MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1615940 entries, 0 to 1615939
+Data columns (total 23 columns):
+ #   Column            Non-Null Count    Dtype
+---  ------            --------------    -----
+ 0   Job Id            1615940 non-null  uint64
+ 1   Experience        1615940 non-null  category
+ 2   Qualifications    1615940 non-null  category
+ 3   Salary Range      1615940 non-null  category
+ 4   location          1615940 non-null  category
+ 5   Country           1615940 non-null  category
+ 6   latitude          1615940 non-null  float32
+ 7   longitude         1615940 non-null  float32
+ 8   Work Type         1615940 non-null  category
+ 9   Company Size      1615940 non-null  uint32
+ 10  Job Posting Date  1615940 non-null  category
+ 11  Preference        1615940 non-null  category
+ 12  Contact Person    1615940 non-null  category
+ 13  Contact           1615940 non-null  object
+ 14  Job Title         1615940 non-null  category
+ 15  Role              1615940 non-null  category
+ 16  Job Portal        1615940 non-null  category
+ 17  Job Description   1615940 non-null  category
+ 18  Benefits          1615940 non-null  category
+ 19  skills            1615940 non-null  category
+ 20  Responsibilities  1615940 non-null  category
+ 21  Company           1615940 non-null  category
+ 22  Company Profile   1610462 non-null  category
+dtypes: category(18), float32(2), object(1), uint32(1), uint64(1)
+memory usage: 226.3 MB
+Job Id:uint64
+Experience:category
+Qualifications:category
+Salary Range:category
+location:category
+Country:category
+latitude:float32
+longitude:float32
+Work Type:category
+Company Size:uint32
+Job Posting Date:category
+Preference:category
+Contact Person:category
+Contact:object
+Job Title:category
+Role:category
+Job Portal:category
+Job Description:category
+Benefits:category
+skills:category
+Responsibilities:category
+Company:category
+Company Profile:category
